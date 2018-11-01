@@ -1,0 +1,11 @@
+C:\Users\mm930\source\repos\nkust1023\nkust1023\nkust1023\bin\Debug\netcoreapp2.1\nkust1023.deps.json
+C:\Users\mm930\source\repos\nkust1023\nkust1023\nkust1023\bin\Debug\netcoreapp2.1\nkust1023.runtimeconfig.json
+C:\Users\mm930\source\repos\nkust1023\nkust1023\nkust1023\bin\Debug\netcoreapp2.1\nkust1023.runtimeconfig.dev.json
+C:\Users\mm930\source\repos\nkust1023\nkust1023\nkust1023\bin\Debug\netcoreapp2.1\nkust1023.dll
+C:\Users\mm930\source\repos\nkust1023\nkust1023\nkust1023\obj\Debug\netcoreapp2.1\nkust1023.csprojAssemblyReference.cache
+C:\Users\mm930\source\repos\nkust1023\nkust1023\nkust1023\obj\Debug\netcoreapp2.1\nkust1023.csproj.CoreCompileInputs.cache
+C:\Users\mm930\source\repos\nkust1023\nkust1023\nkust1023\obj\Debug\netcoreapp2.1\nkust1023.AssemblyInfoInputs.cache
+C:\Users\mm930\source\repos\nkust1023\nkust1023\nkust1023\obj\Debug\netcoreapp2.1\nkust1023.AssemblyInfo.cs
+C:\Users\mm930\source\repos\nkust1023\nkust1023\nkust1023\bin\Debug\netcoreapp2.1\nkust1023.pdb
+C:\Users\mm930\source\repos\nkust1023\nkust1023\nkust1023\obj\Debug\netcoreapp2.1\nkust1023.dll
+C:\Users\mm930\source\repos\nkust1023\nkust1023\nkust1023\obj\Debug\netcoreapp2.1\nkust1023.pdb
